@@ -1,2 +1,1 @@
-# Website-SMAN5
-WEB
+# WEBSITE-SEKOLAH
